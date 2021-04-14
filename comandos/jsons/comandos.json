@@ -1,0 +1,57 @@
+{
+    "editmsg": {
+        "comando": {
+            "1": "Uso: 'ping | Comando para saber a latencia do BOT.",
+            "2": "'Uso: 'gengar | Lutinha sem graça e travada do gengar."
+        }
+    },
+
+    "gato": {
+        "comando": {
+            "1": "Uso: 'escolher | Escolhe um gato de 1 a 41",
+            "2": "Uso: 'gato | Gato aletório",
+            "3": "Uso: 'acariciar | Sistema aleatório de acariciamentos de gatos.©"
+        }
+    },
+
+    "player": {
+        "comando": {
+            "1": "Uso: 'play nome da música/link | Suporte a Spotify, Soundcloud e Youtube.",
+            "2": "Uso: 'volume 50 | O volume pode passar de 100%, porém o som pode ficar estourado, principalmente se usado com bassboost.",
+            "3": "Uso: 'pause | Pausa a música atual e a queue também.",
+            "4":"Uso: 'despausar |Despausa a música anteriormente pausada.",
+            "5":"Uso: 'parar | Limpa a queue e para a música consequentemente.",
+            "6": "Uso: 'pular | Pula a música atual.",
+            "7": "Uso: 'voltar | volta para a música anterior.'",
+            "8": "Uso: 'bassbooston | Liga o bassboost, cara por favor n aumenta o volume além de 3 por favor. (limitador incluso)",
+            "9": "Uso: 'bassboostoff | desliga o bassboost",
+            "10":"Uso: 'surround | ativa o surround, não percebi diferença, mas alguma coisa faz.",
+            "11":"Uso: 'surroundoff | desativa o surround",
+            "12": "Uso: 'limitador | Ativa o Limitador de som",
+            "13": "Uso: 'limitadoroff | desativa o limitador",
+            "14":"Uso: 'treble | Ativa o treble",
+            "15":"Uso: 'trebleoff | Desativa o treble",
+            "16":"Uso: 'sair | Força o bot a sair da chamada (Não recomendado)",
+            "17":"Uso: 'queue | Lista a queue",
+            "18":"Uso: 'normalizeron | Liga o normalizer, o seu uso é experimental.",
+            "19":"Uso: 'normalizeroff | Desliga o normalizer"
+
+        }
+    },
+
+    "twitter": {
+        "comando": {
+            "1": "Uso: 'tweet {seu texto} (sem colchete) | Faz um tweet sem imagem.",
+            "2": "Uso: 'tweetimg' {seu texto} + {uma imagem no discord} (sem colchete) | Faz um tweet com imagem."
+        }
+    },
+
+    "webhooks": {
+        "comando": {
+            "1": "'Uso: akira | Bot do Akira",
+            "2": "Uso: 'avina | Bot da Avina",
+            "3": "Uso: 'daemon | Bot do Daemon",
+            "4": "Uso: 'muk | Bot do Muk"
+        }
+    }
+}
